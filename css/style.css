@@ -1,6 +1,6 @@
 body{
     margin: 0;                          /*Margin for all body elements*/
-    font-family: 'Pangolin', cursive;   /*Declare the font family or name*/
+    font-family: 'Poppins', sans-serif;   /*Declare the font family or name*/
 }
 h1{
     font-size: 50px;
