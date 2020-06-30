@@ -55,6 +55,11 @@ section{
     background-repeat: no-repeat;
     background-position: left;
 }
+.more-experience-area{
+    background-image: url("../images/exp-bg-rotated.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
 #full-stack{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, Salmon,tomato);
@@ -64,6 +69,17 @@ section{
 #baby-web{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blueviolet,cyan);
+    border-image-slice: 1;
+}
+#system-support-engineer{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, black, grey);
+    border-image-slice: 1;
+
+}
+#freelance-area{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,green,gold);
     border-image-slice: 1;
 }
 footer p{
