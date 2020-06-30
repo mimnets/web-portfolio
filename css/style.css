@@ -35,6 +35,9 @@ section{
     border-radius: 5px;
     color: white;
 }
+#icenter-link{
+    text-decoration: none;
+}
 
 .dream-area{
     background-image: url("images/dream-bg.png");
